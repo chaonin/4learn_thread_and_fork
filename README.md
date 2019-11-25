@@ -1,1 +1,1 @@
-A deamon damo for process, thread and queue model of python
+A deamon demo for process, thread and queue model of python
